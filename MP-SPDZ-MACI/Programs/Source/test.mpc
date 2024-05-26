@@ -1,0 +1,11 @@
+
+a = Array.create_from(cint([2,3]))
+
+print_ln('len %s',len(a))
+
+for i in 0, 1:
+    print_ln('Array Element from player %s',a[i])
+
+
+m = Matrix.create_from(cint([[0x32,0x2],[0x4322,0x2]]))
+
