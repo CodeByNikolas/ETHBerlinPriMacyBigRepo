@@ -20,10 +20,10 @@ https://bitebitebie.vercel.app/
 
 The MP-SPDZ-MACI Repo is used for the Multi party computation that is used to replace the trusted Coordinator
 
-### challenges: running and adapting MACI to MPC; conversion of cryptogrphic primitives to MPC circuits; understanding MPC dsl;
+## challenges: running and adapting MACI to MPC; conversion of cryptogrphic primitives to MPC circuits; understanding MPC dsl;
 
-###problem we solve: eliminating the need to trust into public parties and private voting with MACI
+##problem we solve: eliminating the need to trust into public parties and private voting with MACI
 
-###technology used: MPC (Multi-party computation), eliptic curve cryptography, Poseidon-hash based encryption
+##technology used: MPC (Multi-party computation), eliptic curve cryptography, Poseidon-hash based encryption
 
 -   Technology: MACI Protocol (Minimal Anti-Collusion Infrastructure)
